@@ -1,0 +1,6 @@
+version: '3'
+services:
+ web:
+   image: vaday/collgesql:48977
+   ports:
+    - 8021:80
