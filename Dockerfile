@@ -1,4 +1,4 @@
-FROM vaday/collegesql
+FROM vaday/collgesql
 EXPOSE 80
 
 COPY entrypoint.sh /entrypoint.sh
